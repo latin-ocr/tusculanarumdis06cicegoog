@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tusculanarumdis06cicegoog_0007.png"; bbox 0 0 2235 3581; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 970 1439 1421 1573">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 970 1439 1421 1573">
+     <span class='ocr_line' id='line_1_1' title="bbox 970 1439 1421 1573; baseline -0.002 -29"><span class='ocrx_word' id='word_1_1' title='bbox 970 1439 1421 1573; x_wconf 46' lang='lat' dir='ltr'>ssim-petz</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 541 1766 1841 1875">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 541 1766 1841 1875">
+     <span class='ocr_line' id='line_1_2' title="bbox 541 1766 1841 1875; baseline -0.002 -2"><span class='ocrx_word' id='word_1_2' title='bbox 541 1767 869 1873; x_wconf 52' lang='lat' dir='ltr'>&lt;arcels</span> <span class='ocrx_word' id='word_1_3' title='bbox 929 1770 1110 1872; x_wconf 74' lang='lat' dir='ltr'>auh</span> <span class='ocrx_word' id='word_1_4' title='bbox 1175 1766 1456 1875; x_wconf 65' lang='lat' dir='ltr'>§latin</span> <span class='ocrx_word' id='word_1_5' title='bbox 1516 1767 1841 1874; x_wconf 56' lang='lat' dir='ltr'>&amp;exta</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
